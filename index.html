@@ -2,12 +2,16 @@
   <head>
     <!DOCTYPE html>
     <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>not.a.pattern</title>
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css"
     />
     <style type="text/css">
+      html {
+        font-size: calc(15px + 0.390625vw);
+      }
       body {
         background-color: #000;
         background-image: url("./IMG_5153.jpeg");
@@ -15,12 +19,11 @@
       }
       .quote {
         background: rgba(255, 255, 255, 0.6);
-        padding: 25px 10%;
+        padding: 25px 9vw;
         color: #000;
-        max-width: 600px;
-        margin: 5% auto;
+        max-width: min(70vw, 600px);
+        margin: 5vw auto;
         font-family: monospace;
-        font-size: 1.3em;
       }
       .quote .char {
         font-weight: bold;
