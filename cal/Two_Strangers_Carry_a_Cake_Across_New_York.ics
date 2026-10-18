@@ -1,996 +1,940 @@
 BEGIN:VCALENDAR
-PRODID:-//notapattern//calendar export 1.0//EN
 VERSION:2.0
+PRODID:-//notapattern//calendar export 1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Two Strangers (Carry a Cake Across New York)
+URL:https://www.telecharge.com/Two-Strangers-carry-A-Cake-Across-New-York-Tickets
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:998037
-DTSTAMP:20261016T215531Z
-DTSTART:20261016T233000Z
-DTEND:20261017T014500Z
 SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
-DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
-END:VEVENT
-BEGIN:VEVENT
-UID:998038
-DTSTAMP:20261016T215531Z
-DTSTART:20261017T180000Z
-DTEND:20261017T201500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
-DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
-END:VEVENT
-BEGIN:VEVENT
-UID:998039
-DTSTAMP:20261016T215531Z
-DTSTART:20261018T000000Z
-DTEND:20261018T021500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
-DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
-END:VEVENT
-BEGIN:VEVENT
-UID:998040
-DTSTAMP:20261016T215531Z
 DTSTART:20261018T190000Z
 DTEND:20261018T211500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998040
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998041
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261020T233000Z
 DTEND:20261021T014500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998041
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998042
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261021T180000Z
 DTEND:20261021T201500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998042
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998043
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261021T233000Z
 DTEND:20261022T014500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998043
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998044
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261022T233000Z
 DTEND:20261023T014500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998044
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998045
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261023T233000Z
 DTEND:20261024T014500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998045
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998046
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261024T180000Z
 DTEND:20261024T201500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998046
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998047
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261025T000000Z
 DTEND:20261025T021500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998047
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998048
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261025T190000Z
 DTEND:20261025T211500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998048
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998049
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261027T233000Z
 DTEND:20261028T014500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998049
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998050
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261028T180000Z
 DTEND:20261028T201500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998050
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998051
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261028T233000Z
 DTEND:20261029T014500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998051
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998052
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261029T233000Z
 DTEND:20261030T014500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998052
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998053
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261030T233000Z
 DTEND:20261031T014500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998053
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998054
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261031T190000Z
 DTEND:20261031T211500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998054
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998055
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261101T190000Z
 DTEND:20261101T211500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998055
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998056
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261102T003000Z
 DTEND:20261102T024500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998056
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998057
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261104T003000Z
 DTEND:20261104T024500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998057
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998060
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261104T190000Z
 DTEND:20261104T211500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998060
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998063
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261105T003000Z
 DTEND:20261105T024500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998063
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998066
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261106T003000Z
 DTEND:20261106T024500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998066
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998069
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261107T003000Z
 DTEND:20261107T024500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998069
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998072
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261107T190000Z
 DTEND:20261107T211500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998072
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998075
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261108T010000Z
 DTEND:20261108T031500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998075
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998078
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261108T200000Z
 DTEND:20261108T221500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998078
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998058
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261111T003000Z
 DTEND:20261111T024500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998058
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998061
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261111T190000Z
 DTEND:20261111T211500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998061
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998064
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261112T003000Z
 DTEND:20261112T024500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998064
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998067
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261113T003000Z
 DTEND:20261113T024500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998067
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998070
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261114T003000Z
 DTEND:20261114T024500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998070
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998073
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261114T190000Z
 DTEND:20261114T211500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998073
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998076
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261115T010000Z
 DTEND:20261115T031500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998076
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998079
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261115T200000Z
 DTEND:20261115T221500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998079
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998059
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261118T003000Z
 DTEND:20261118T024500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998059
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998062
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261118T190000Z
 DTEND:20261118T211500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998062
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998065
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261119T003000Z
 DTEND:20261119T024500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998065
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998068
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261120T003000Z
 DTEND:20261120T024500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998068
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998071
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261121T003000Z
 DTEND:20261121T024500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998071
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998074
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261121T190000Z
 DTEND:20261121T211500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998074
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998077
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261122T010000Z
 DTEND:20261122T031500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998077
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998080
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261122T200000Z
 DTEND:20261122T221500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998080
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998081
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261125T003000Z
 DTEND:20261125T024500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998081
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998082
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261125T190000Z
 DTEND:20261125T211500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998082
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998083
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261126T003000Z
 DTEND:20261126T024500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998083
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998084
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261127T190000Z
 DTEND:20261127T211500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998084
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998085
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261128T003000Z
 DTEND:20261128T024500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998085
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998086
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261128T190000Z
 DTEND:20261128T211500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998086
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998087
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261129T010000Z
 DTEND:20261129T031500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998087
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:998088
-DTSTAMP:20261016T215531Z
+SUMMARY:Two Strangers (Carry a Cake Across New York)
 DTSTART:20261129T200000Z
 DTEND:20261129T221500Z
-SUMMARY:Two Strangers (Carry a Cake Across New York)
-LOCATION:Longacre Theatre, 220 West 48th Street, New York NY 10036
+DTSTAMP:20261018T070259Z
+UID:998088
 DESCRIPTION:<p><em>Two Strangers (Carry a Cake Across New York) </em>is an
-  uncommonly surprising musical about finding common ground. Tony Award&reg;
-  nominees Sam Tutty and Christiani Pitts star as Dougal and Robin, an
-  unlikely pair who spend three life-changing days together in NYC. With a
-  score of instant classics and a story that&rsquo;s equally hilarious and
-  heartfelt, <em>Two Strangers</em> is a completely original musical that
-  &ldquo;achieves something magical&rdquo; (<em>Vulture</em>).<br /><br
-  />&ldquo;A must-see! The feel-good musical of the season.&rdquo; &mdash;
-  <em>Cosmopolitan</em><br /><br />"A big, original hit!" &mdash;
-  <em>Vogue</em><br /><br />&ldquo;A Broadway hit! Laugh-out-loud
-  funny.&rdquo; &mdash; <em>Variety</em></p>
+  uncommonly surprising musical about finding common ground. Tony Award&reg
+ \; nominees Sam Tutty and Christiani Pitts star as Dougal and Robin\, an u
+ nlikely pair who spend three life-changing days together in NYC. With a sc
+ ore of instant classics and a story that&rsquo\;s equally hilarious and he
+ artfelt\, <em>Two Strangers</em> is a completely original musical that &ld
+ quo\;achieves something magical&rdquo\; (<em>Vulture</em>).<br /><br />&ld
+ quo\;A must-see! The feel-good musical of the season.&rdquo\; &mdash\; <em
+ >Cosmopolitan</em><br /><br />"A big\, original hit!" &mdash\; <em>Vogue</
+ em><br /><br />&ldquo\;A Broadway hit! Laugh-out-loud funny.&rdquo\; &mdas
+ h\; <em>Variety</em></p>
+LOCATION:Longacre Theatre\, 220 West 48th Street\, New York NY 10036
 END:VEVENT
 END:VCALENDAR
