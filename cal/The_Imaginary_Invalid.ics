@@ -1,722 +1,672 @@
 BEGIN:VCALENDAR
-PRODID:-//notapattern//calendar export 1.0//EN
 VERSION:2.0
+PRODID:-//notapattern//calendar export 1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:The Imaginary Invalid
+URL:https://www.telecharge.com/The-Imaginary-Invalid-Tickets
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:41692
-DTSTAMP:20261016T214903Z
-DTSTART:20261017T000000Z
-DTEND:20261017T013000Z
 SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
-END:VEVENT
-BEGIN:VEVENT
-UID:40461
-DTSTAMP:20261016T214903Z
-DTSTART:20261017T180000Z
-DTEND:20261017T193000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
-END:VEVENT
-BEGIN:VEVENT
-UID:41695
-DTSTAMP:20261016T214903Z
-DTSTART:20261018T000000Z
-DTEND:20261018T013000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
-END:VEVENT
-BEGIN:VEVENT
-UID:40478
-DTSTAMP:20261016T214903Z
 DTSTART:20261018T190000Z
 DTEND:20261018T203000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40478
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40434
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261021T000000Z
 DTEND:20261021T013000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40434
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:41699
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261021T180000Z
 DTEND:20261021T193000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:41699
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40444
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261022T000000Z
 DTEND:20261022T013000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40444
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40456
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261023T230000Z
 DTEND:20261024T003000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40456
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40460
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261024T180000Z
 DTEND:20261024T193000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40460
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:41696
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261025T000000Z
 DTEND:20261025T013000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:41696
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40479
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261025T190000Z
 DTEND:20261025T203000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40479
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40433
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261027T230000Z
 DTEND:20261028T003000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40433
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40443
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261028T230000Z
 DTEND:20261029T003000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40443
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40450
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261029T230000Z
 DTEND:20261030T003000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40450
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40455
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261030T230000Z
 DTEND:20261031T003000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40455
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40463
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261031T180000Z
 DTEND:20261031T193000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40463
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40473
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261101T000000Z
 DTEND:20261101T013000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40473
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40480
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261101T200000Z
 DTEND:20261101T213000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40480
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40431
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261104T000000Z
 DTEND:20261104T013000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40431
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40439
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261104T190000Z
 DTEND:20261104T203000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40439
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40442
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261105T010000Z
 DTEND:20261105T023000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40442
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40451
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261106T000000Z
 DTEND:20261106T013000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40451
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40454
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261107T000000Z
 DTEND:20261107T013000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40454
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40464
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261107T190000Z
 DTEND:20261107T203000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40464
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40474
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261108T010000Z
 DTEND:20261108T023000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40474
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40481
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261108T200000Z
 DTEND:20261108T213000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40481
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40432
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261111T000000Z
 DTEND:20261111T013000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40432
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40440
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261111T190000Z
 DTEND:20261111T203000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40440
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40441
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261112T010000Z
 DTEND:20261112T023000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40441
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40452
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261113T000000Z
 DTEND:20261113T013000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40452
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:41693
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261114T000000Z
 DTEND:20261114T013000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:41693
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40466
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261114T190000Z
 DTEND:20261114T203000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40466
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40471
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261115T010000Z
 DTEND:20261115T023000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40471
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40482
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261115T200000Z
 DTEND:20261115T213000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40482
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40430
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261118T000000Z
 DTEND:20261118T013000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40430
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:41700
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261118T190000Z
 DTEND:20261118T203000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:41700
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:41702
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261119T010000Z
 DTEND:20261119T023000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:41702
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40453
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261120T000000Z
 DTEND:20261120T013000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40453
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:41694
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261121T000000Z
 DTEND:20261121T013000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:41694
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40467
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261121T190000Z
 DTEND:20261121T203000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40467
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:40472
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261122T010000Z
 DTEND:20261122T023000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:40472
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 BEGIN:VEVENT
-UID:41697
-DTSTAMP:20261016T214903Z
+SUMMARY:The Imaginary Invalid
 DTSTART:20261122T200000Z
 DTEND:20261122T213000Z
-SUMMARY:The Imaginary Invalid
-LOCATION:Todd Haimes Theatre, 227 West 42nd Street, New York NY 10036
-DESCRIPTION:<p>Tony Award&reg; winner Bill Irwin returns to Broadway (and
-  to Moli&egrave;re) to head the cast of his razor-sharp new adaptation of
-  <em>The Imaginary Invalid</em>, a comedy that proves hypochondria never
-  goes out of style. <br /><br />Professional patient Argan indulges his
-  every ailment, and schemes to marry off his daughter to a doctor to save
-  on medical bills. But she has another life in mind. With a fearless
-  ensemble directed by Broadway veteran Brandon J. Dirden, this fiercely
-  funny production is about to prove that real life is what happens while
-  you and your family are making other plans.</p>
+DTSTAMP:20261018T075209Z
+UID:41697
+DESCRIPTION:<p>Tony Award&reg\; winner Bill Irwin returns to Broadway (and
+  to Moli&egrave\;re) to head the cast of his razor-sharp new adaptation of
+  <em>The Imaginary Invalid</em>\, a comedy that proves hypochondria never 
+ goes out of style. <br /><br />Professional patient Argan indulges his eve
+ ry ailment\, and schemes to marry off his daughter to a doctor to save on 
+ medical bills. But she has another life in mind. With a fearless ensemble 
+ directed by Broadway veteran Brandon J. Dirden\, this fiercely funny produ
+ ction is about to prove that real life is what happens while you and your 
+ family are making other plans.</p>
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York NY 10036
 END:VEVENT
 END:VCALENDAR

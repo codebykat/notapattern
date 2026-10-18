@@ -4,8 +4,8 @@ PRODID:-//notapattern//calendar export 1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:A Few Good Men
-X-WR-TIMEZONE:America/New_York
 URL:https://www.telecharge.com/A-Few-Good-Men-Tickets
+X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 SUMMARY:A Few Good Men
 DTSTART:20261021T000000Z

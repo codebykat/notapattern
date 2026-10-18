@@ -4,8 +4,8 @@ PRODID:-//notapattern//calendar export 1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Clifford Odets' Awake and Sing!
-X-WR-TIMEZONE:America/New_York
 URL:https://www.telecharge.com/Awake-And-Sing-Tickets
+X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 SUMMARY:Clifford Odets' Awake and Sing!
 DTSTART:20261216T000000Z

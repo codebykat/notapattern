@@ -4,8 +4,8 @@ PRODID:-//notapattern//calendar export 1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Dirty Dancing: The Musical
-X-WR-TIMEZONE:America/New_York
 URL:https://www.telecharge.com/Dirty-Dancing-The-Musical-Tickets
+X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 SUMMARY:Dirty Dancing: The Musical
 DTSTART:20270213T010000Z
