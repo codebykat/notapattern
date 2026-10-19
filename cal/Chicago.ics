@@ -8,48 +8,6 @@ URL:https://www.telecharge.com/Chicago-Tickets
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 SUMMARY:Chicago
-DTSTART:20261018T180000Z
-DTEND:20261018T203000Z
-DTSTAMP:20261018T074903Z
-UID:999781
-DESCRIPTION:<p>A true New York City institution\, <em>Chicago</em> has eve
- rything that makes Broadway great: a universal tale of fame\, fortune\, an
- d all that jazz\; one show-stopping song after another\; and the most asto
- nishing dancing you&rsquo\;ve ever seen. No wonder <em>Chicago</em> has be
- en honored with six Tony Awards<sup>&reg\;</sup>\, 2 Olivier Awards\, a Gr
- ammy<sup>&reg\;</sup> and thousands of standing ovations.<br /><br />It&rs
- quo\;s also no surprise that <em>Chicago</em> has wowed audiences all arou
- nd the world\, from Mexico City to Moscow\, S&atilde\;o Paulo to South Afr
- ica\, since 1996.<br /><br />Whether you&rsquo\;re looking for your first 
- Broadway musical\, whether you&rsquo\;ve seen the Academy Award&reg\;-winn
- ing film and want to experience the show live onstage\, or whether you&rsq
- uo\;ve seen it before and want to recapture the magic\, <em>Chicago</em> a
- lways delivers.</p>
-LOCATION:Ambassador Theatre\, 219 West 49th Street\, New York NY 10019
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chicago
-DTSTART:20261018T230000Z
-DTEND:20261019T013000Z
-DTSTAMP:20261018T074903Z
-UID:999790
-DESCRIPTION:<p>A true New York City institution\, <em>Chicago</em> has eve
- rything that makes Broadway great: a universal tale of fame\, fortune\, an
- d all that jazz\; one show-stopping song after another\; and the most asto
- nishing dancing you&rsquo\;ve ever seen. No wonder <em>Chicago</em> has be
- en honored with six Tony Awards<sup>&reg\;</sup>\, 2 Olivier Awards\, a Gr
- ammy<sup>&reg\;</sup> and thousands of standing ovations.<br /><br />It&rs
- quo\;s also no surprise that <em>Chicago</em> has wowed audiences all arou
- nd the world\, from Mexico City to Moscow\, S&atilde\;o Paulo to South Afr
- ica\, since 1996.<br /><br />Whether you&rsquo\;re looking for your first 
- Broadway musical\, whether you&rsquo\;ve seen the Academy Award&reg\;-winn
- ing film and want to experience the show live onstage\, or whether you&rsq
- uo\;ve seen it before and want to recapture the magic\, <em>Chicago</em> a
- lways delivers.</p>
-LOCATION:Ambassador Theatre\, 219 West 49th Street\, New York NY 10019
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chicago
 DTSTART:20261019T230000Z
 DTEND:20261020T013000Z
 DTSTAMP:20261018T074903Z

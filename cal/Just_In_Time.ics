@@ -8,27 +8,6 @@ URL:https://www.telecharge.com/Just-In-Time-Tickets
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 SUMMARY:Just In Time
-DTSTART:20261018T190000Z
-DTEND:20261018T213000Z
-DTSTAMP:20261018T081137Z
-UID:1010203
-DESCRIPTION:<p><em>Just In Time</em> is an &ldquo\;utterly electrifying&rd
- quo\; (<em>Entertainment Weekly</em>) new musical that brings to life the 
- story of Bobby Darin\, the legendary singer whose short but remarkable jou
- rney took him from teen idol to global sensation.<br /><br />Developed and
-  directed by Tony Award&reg\; winner Alex Timbers (<em>Moulin Rouge!</em>)
- \, the show immerses audiences into an intimate nightclub &ldquo\;so seduc
- tive in ambiance that you find yourself not wanting to go back outside&rdq
- uo\; (<em>Chicago Tribune</em>). Complete with iconic hits including &ldqu
- o\;Beyond the Sea\,&rdquo\; &ldquo\;Mack the Knife\,&rdquo\; &ldquo\;Splis
- h Splash\,&rdquo\; and &ldquo\;Dream Lover\,&rdquo\; <em>Just In Time</em>
-  is &ldquo\;a helluva good time at the theater&rdquo\; (<em>Time Out</em>)
- .</p>
-LOCATION:Circle In The Square Theatre\, 1633 Broadway / 235 West 50th Stre
- et\, New York NY 10019
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Just In Time
 DTSTART:20261020T230000Z
 DTEND:20261021T013000Z
 DTSTAMP:20261018T081137Z
