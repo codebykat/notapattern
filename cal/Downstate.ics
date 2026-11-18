@@ -4,13 +4,12 @@ PRODID:-//notapattern//calendar export 1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Downstate
-URL:https://www.telecharge.com/Downstate-Tickets
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261120T000000Z
-DTEND:20261120T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261120T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012362
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -26,12 +25,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261121T000000Z
-DTEND:20261121T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261121T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012363
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -47,12 +47,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261121T190000Z
-DTEND:20261121T213000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261121T212500Z
+DTSTAMP:20261118T003523Z
 UID:1012364
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -68,12 +69,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261122T010000Z
-DTEND:20261122T033000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261122T032500Z
+DTSTAMP:20261118T003523Z
 UID:1012365
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -89,12 +91,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261122T180000Z
-DTEND:20261122T203000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261122T202500Z
+DTSTAMP:20261118T003523Z
 UID:1012366
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -110,12 +113,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261122T233000Z
-DTEND:20261123T020000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261123T015500Z
+DTSTAMP:20261118T003523Z
 UID:1012367
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -131,12 +135,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261124T000000Z
-DTEND:20261124T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261124T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012368
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -152,12 +157,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261125T000000Z
-DTEND:20261125T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261125T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012369
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -173,12 +179,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261125T190000Z
-DTEND:20261125T213000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261125T212500Z
+DTSTAMP:20261118T003523Z
 UID:1012370
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -194,12 +201,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261127T190000Z
-DTEND:20261127T213000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261127T212500Z
+DTSTAMP:20261118T003523Z
 UID:1012371
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -215,12 +223,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261128T000000Z
-DTEND:20261128T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261128T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012372
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -236,12 +245,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261128T190000Z
-DTEND:20261128T213000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261128T212500Z
+DTSTAMP:20261118T003523Z
 UID:1012373
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -257,12 +267,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261129T010000Z
-DTEND:20261129T033000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261129T032500Z
+DTSTAMP:20261118T003523Z
 UID:1012374
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -278,12 +289,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261129T200000Z
-DTEND:20261129T223000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261129T222500Z
+DTSTAMP:20261118T003523Z
 UID:1012375
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -299,12 +311,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261201T000000Z
-DTEND:20261201T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261201T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012376
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -320,12 +333,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261202T000000Z
-DTEND:20261202T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261202T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012379
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -341,12 +355,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261204T000000Z
-DTEND:20261204T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261204T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012382
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -362,12 +377,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261205T000000Z
-DTEND:20261205T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261205T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012385
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -383,12 +399,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261205T190000Z
-DTEND:20261205T213000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261205T212500Z
+DTSTAMP:20261118T003523Z
 UID:1012388
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -404,12 +421,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261206T010000Z
-DTEND:20261206T033000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261206T032500Z
+DTSTAMP:20261118T003523Z
 UID:1012391
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -425,12 +443,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261206T180000Z
-DTEND:20261206T203000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261206T202500Z
+DTSTAMP:20261118T003523Z
 UID:1012394
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -446,12 +465,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261206T233000Z
-DTEND:20261207T020000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261207T015500Z
+DTSTAMP:20261118T003523Z
 UID:1012397
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -467,12 +487,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261208T000000Z
-DTEND:20261208T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261208T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012377
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -488,12 +509,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261209T000000Z
-DTEND:20261209T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261209T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012380
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -509,12 +531,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261211T000000Z
-DTEND:20261211T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261211T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012383
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -530,12 +553,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261212T000000Z
-DTEND:20261212T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261212T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012386
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -551,12 +575,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261212T190000Z
-DTEND:20261212T213000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261212T212500Z
+DTSTAMP:20261118T003523Z
 UID:1012389
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -572,12 +597,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261213T010000Z
-DTEND:20261213T033000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261213T032500Z
+DTSTAMP:20261118T003523Z
 UID:1012392
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -593,12 +619,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261213T180000Z
-DTEND:20261213T203000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261213T202500Z
+DTSTAMP:20261118T003523Z
 UID:1012395
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -614,12 +641,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261213T233000Z
-DTEND:20261214T020000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261214T015500Z
+DTSTAMP:20261118T003523Z
 UID:1012398
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -635,12 +663,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261215T000000Z
-DTEND:20261215T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261215T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012378
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -656,12 +685,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261216T000000Z
-DTEND:20261216T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261216T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012381
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -677,12 +707,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261218T000000Z
-DTEND:20261218T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261218T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012384
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -698,12 +729,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261219T000000Z
-DTEND:20261219T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261219T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012387
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -719,12 +751,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261219T190000Z
-DTEND:20261219T213000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261219T212500Z
+DTSTAMP:20261118T003523Z
 UID:1012390
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -740,12 +773,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261220T010000Z
-DTEND:20261220T033000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261220T032500Z
+DTSTAMP:20261118T003523Z
 UID:1012393
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -761,12 +795,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261220T180000Z
-DTEND:20261220T203000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261220T202500Z
+DTSTAMP:20261118T003523Z
 UID:1012396
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -782,12 +817,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261220T233000Z
-DTEND:20261221T020000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261221T015500Z
+DTSTAMP:20261118T003523Z
 UID:1012399
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -803,12 +839,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261222T000000Z
-DTEND:20261222T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261222T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012400
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -824,12 +861,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261223T000000Z
-DTEND:20261223T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261223T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012401
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -845,12 +883,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261223T190000Z
-DTEND:20261223T213000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261223T212500Z
+DTSTAMP:20261118T003523Z
 UID:1012408
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -866,12 +905,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261224T000000Z
-DTEND:20261224T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261224T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012402
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -887,12 +927,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261226T190000Z
-DTEND:20261226T213000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261226T212500Z
+DTSTAMP:20261118T003523Z
 UID:1012411
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -908,12 +949,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261227T010000Z
-DTEND:20261227T033000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261227T032500Z
+DTSTAMP:20261118T003523Z
 UID:1012412
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -929,12 +971,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261227T180000Z
-DTEND:20261227T203000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261227T202500Z
+DTSTAMP:20261118T003523Z
 UID:1012413
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -950,12 +993,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261227T233000Z
-DTEND:20261228T020000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261228T015500Z
+DTSTAMP:20261118T003523Z
 UID:1012414
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -971,12 +1015,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261229T000000Z
-DTEND:20261229T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261229T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012415
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -992,12 +1037,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261229T190000Z
-DTEND:20261229T213000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261229T212500Z
+DTSTAMP:20261118T003523Z
 UID:1012418
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -1013,12 +1059,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261230T000000Z
-DTEND:20261230T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261230T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012416
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -1034,12 +1081,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261230T190000Z
-DTEND:20261230T213000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261230T212500Z
+DTSTAMP:20261118T003523Z
 UID:1012419
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -1055,12 +1103,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20261231T000000Z
-DTEND:20261231T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20261231T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012417
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -1076,12 +1125,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20270101T200000Z
-DTEND:20270101T223000Z
-DTSTAMP:20261018T081000Z
+DTEND:20270101T222500Z
+DTSTAMP:20261118T003523Z
 UID:1012420
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -1097,12 +1147,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20270102T190000Z
-DTEND:20270102T213000Z
-DTSTAMP:20261018T081000Z
+DTEND:20270102T212500Z
+DTSTAMP:20261118T003523Z
 UID:1012421
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -1118,12 +1169,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20270103T010000Z
-DTEND:20270103T033000Z
-DTSTAMP:20261018T081000Z
+DTEND:20270103T032500Z
+DTSTAMP:20261118T003523Z
 UID:1012422
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -1139,12 +1191,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20270105T000000Z
-DTEND:20270105T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20270105T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012423
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -1160,12 +1213,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20270106T000000Z
-DTEND:20270106T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20270106T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012430
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -1181,12 +1235,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20270108T000000Z
-DTEND:20270108T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20270108T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012437
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -1202,12 +1257,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20270109T000000Z
-DTEND:20270109T023000Z
-DTSTAMP:20261018T081000Z
+DTEND:20270109T022500Z
+DTSTAMP:20261118T003523Z
 UID:1012444
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -1223,12 +1279,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20270109T190000Z
-DTEND:20270109T213000Z
-DTSTAMP:20261018T081000Z
+DTEND:20270109T212500Z
+DTSTAMP:20261118T003523Z
 UID:1012451
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -1244,12 +1301,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20270110T010000Z
-DTEND:20270110T033000Z
-DTSTAMP:20261018T081000Z
+DTEND:20270110T032500Z
+DTSTAMP:20261118T003523Z
 UID:1012458
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -1265,12 +1323,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20270110T180000Z
-DTEND:20270110T203000Z
-DTSTAMP:20261018T081000Z
+DTEND:20270110T202500Z
+DTSTAMP:20261118T003523Z
 UID:1012465
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -1286,12 +1345,13 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downstate
 DTSTART:20270110T233000Z
-DTEND:20270111T020000Z
-DTSTAMP:20261018T081000Z
+DTEND:20270111T015500Z
+DTSTAMP:20261118T003523Z
 UID:1012472
 DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
  or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
@@ -1307,5 +1367,886 @@ DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
   Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
   Col&oacute\;n-Zayas.</p>
 LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270112T000000Z
+DTEND:20270112T022500Z
+DTSTAMP:20261118T003523Z
+UID:1012424
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270113T000000Z
+DTEND:20270113T022500Z
+DTSTAMP:20261118T003523Z
+UID:1012431
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270115T000000Z
+DTEND:20270115T022500Z
+DTSTAMP:20261118T003523Z
+UID:1012438
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270116T000000Z
+DTEND:20270116T022500Z
+DTSTAMP:20261118T003523Z
+UID:1012445
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270116T190000Z
+DTEND:20270116T212500Z
+DTSTAMP:20261118T003523Z
+UID:1012452
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270117T010000Z
+DTEND:20270117T032500Z
+DTSTAMP:20261118T003523Z
+UID:1012459
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270117T180000Z
+DTEND:20270117T202500Z
+DTSTAMP:20261118T003523Z
+UID:1012466
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270117T233000Z
+DTEND:20270118T015500Z
+DTSTAMP:20261118T003523Z
+UID:1012473
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270119T000000Z
+DTEND:20270119T022500Z
+DTSTAMP:20261118T003523Z
+UID:1012425
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270120T000000Z
+DTEND:20270120T022500Z
+DTSTAMP:20261118T003523Z
+UID:1012432
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270122T000000Z
+DTEND:20270122T022500Z
+DTSTAMP:20261118T003523Z
+UID:1012439
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270123T000000Z
+DTEND:20270123T022500Z
+DTSTAMP:20261118T003523Z
+UID:1012446
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270123T190000Z
+DTEND:20270123T212500Z
+DTSTAMP:20261118T003523Z
+UID:1012453
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270124T010000Z
+DTEND:20270124T032500Z
+DTSTAMP:20261118T003523Z
+UID:1012460
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270124T180000Z
+DTEND:20270124T202500Z
+DTSTAMP:20261118T003523Z
+UID:1012467
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270124T233000Z
+DTEND:20270125T015500Z
+DTSTAMP:20261118T003523Z
+UID:1012474
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270126T000000Z
+DTEND:20270126T022500Z
+DTSTAMP:20261118T003523Z
+UID:1012426
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270127T000000Z
+DTEND:20270127T022500Z
+DTSTAMP:20261118T003523Z
+UID:1012433
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270129T000000Z
+DTEND:20270129T022500Z
+DTSTAMP:20261118T003523Z
+UID:1012440
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270130T000000Z
+DTEND:20270130T022500Z
+DTSTAMP:20261118T003523Z
+UID:1012447
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270130T190000Z
+DTEND:20270130T212500Z
+DTSTAMP:20261118T003523Z
+UID:1012454
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270131T010000Z
+DTEND:20270131T032500Z
+DTSTAMP:20261118T003523Z
+UID:1012461
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270131T180000Z
+DTEND:20270131T202500Z
+DTSTAMP:20261118T003523Z
+UID:1012468
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270131T233000Z
+DTEND:20270201T015500Z
+DTSTAMP:20261118T003523Z
+UID:1012475
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270202T000000Z
+DTEND:20270202T022500Z
+DTSTAMP:20261118T003523Z
+UID:1012427
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270203T000000Z
+DTEND:20270203T022500Z
+DTSTAMP:20261118T003523Z
+UID:1012434
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270205T000000Z
+DTEND:20270205T022500Z
+DTSTAMP:20261118T003523Z
+UID:1012441
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270206T000000Z
+DTEND:20270206T022500Z
+DTSTAMP:20261118T003523Z
+UID:1012448
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270206T190000Z
+DTEND:20270206T212500Z
+DTSTAMP:20261118T003523Z
+UID:1012455
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270207T010000Z
+DTEND:20270207T032500Z
+DTSTAMP:20261118T003523Z
+UID:1012462
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270207T180000Z
+DTEND:20270207T202500Z
+DTSTAMP:20261118T003523Z
+UID:1012469
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270207T233000Z
+DTEND:20270208T015500Z
+DTSTAMP:20261118T003523Z
+UID:1012476
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270209T000000Z
+DTEND:20270209T022500Z
+DTSTAMP:20261118T003523Z
+UID:1012428
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270210T000000Z
+DTEND:20270210T022500Z
+DTSTAMP:20261118T003523Z
+UID:1012435
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270212T000000Z
+DTEND:20270212T022500Z
+DTSTAMP:20261118T003523Z
+UID:1012442
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270213T000000Z
+DTEND:20270213T022500Z
+DTSTAMP:20261118T003523Z
+UID:1012449
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270213T190000Z
+DTEND:20270213T212500Z
+DTSTAMP:20261118T003523Z
+UID:1012456
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270214T010000Z
+DTEND:20270214T032500Z
+DTSTAMP:20261118T003523Z
+UID:1012463
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270214T180000Z
+DTEND:20270214T202500Z
+DTSTAMP:20261118T003523Z
+UID:1012470
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downstate
+DTSTART:20270214T233000Z
+DTEND:20270215T015500Z
+DTSTAMP:20261118T003523Z
+UID:1012477
+DESCRIPTION:<p>Winner of the New York Drama Critics&rsquo\; Circle Award f
+ or Best Play\, Bruce Norris&rsquo\;s profane\, disruptive\, and heartbreak
+ ing <em>Downstate</em> finally arrives on Broadway in a strictly limited 1
+ 2-week engagement\, directed by three-time Tony Award winner Joe Mantello.
+ <br /><br />Four men\, living together uneasily in the pressure-cooker of 
+ a state-sanctioned group home\, have been convicted of sex crimes against 
+ minors. They have served their prison sentences\, but enjoying the freedom
+  they believe they have earned proves both elusive and treacherous. When a
+  survivor unexpectedly arrives and demands to confront his abuser\, the en
+ counter triggers a catastrophic chain reaction that cannot be contained.<b
+ r /><br />Starring Cassie Beck\, K. Todd Freeman\, Francis Guinan\, Adrian
+  Martinez\, Al&rsquo\;Jaleel McGhee\, Thomas Sadoski\, Ivy Wolk\, and Liza
+  Col&oacute\;n-Zayas.</p>
+LOCATION:Booth Theatre\, 222 West 45th Street\, New York NY 10036
+URL:https://www.telecharge.com/Downstate-Tickets
 END:VEVENT
 END:VCALENDAR
